@@ -1,0 +1,4 @@
+name: AtlasLauncher
+version: ${project.version}
+main: atlaslauncher.atlaslauncher.AtlasLauncher
+api-version: 1.17
